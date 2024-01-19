@@ -1,0 +1,1 @@
+Created a website similar to Stack Overflow using web development tools such as JavaScript, HTML/CSS, and Visual Studio Code.
